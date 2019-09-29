@@ -27,6 +27,15 @@ numpy,pandas,matplotlib,seaborn,pytorch,xgboost
 - Col1: ID
 - Col2: Target Variable
 
+**What you will learn**
+
+- Handling huge number of columns
+- Working with imbalanced data
+- Feature selection
+- Dimensionality reduction
+- Algorithms - XGBoost, Catboost, and LightGBM
+- Oversampling techniques such as SMOTE, SVM SMOTE, Borderline SMOTE, and ADASYN.
+
 ## Acknowledgments
 
 Competition detail: https://www.hackerearth.com/challenges/hiring/hdfc-bank-ml-hiring-challenge-2019/
